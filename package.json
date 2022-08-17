@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "my-app-data",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -20,7 +20,7 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "repository": {
-    "url": "https://github.com/sankarisiv/my-app.git"
+    "url": "https://github.com/sankarisiv/my-app-data.git"
   },
   "publishConfig": {
     "@sankarisiv:registry": "https://npm.pkg.github.com/."
