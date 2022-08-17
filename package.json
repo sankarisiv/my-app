@@ -23,7 +23,7 @@
     "url": "https://github.com/sankarisiv/my-app.git"
   },
   "publishConfig": {
-    "@sankarisiv:registry": "https://npm.pkg.github.com"
+    "@sankarisiv:registry": "https://npm.pkg.github.com/."
   },
   "dependencies": {
     "@nestjs/common": "^9.0.0",
